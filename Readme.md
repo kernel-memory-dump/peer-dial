@@ -1,3 +1,12 @@
+FORKED from peer-dial https://github.com/fraunhoferfokus/peer-dial
+=========
+
+To be used for R&D purposes for creating erroneous requests/responses , corrupt HbbTV applications, insecure HbbTV applications, malicious SSDP responses etc
+Non commercial use released under the same GNU Lesser General Public License v3.0
+
+
+
+
 peer-dial 
 =========
 
